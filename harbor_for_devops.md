@@ -165,7 +165,7 @@
    docker push your.eks.hostname.com/library/myapp:latest
    ```
 
-### Conclusion
+### Conclusion ###
 
 Harbor provides a robust and secure way to manage container images. By deploying it in a normal server environment or on Amazon EKS, you can take advantage of its enterprise-grade features to ensure the security and reliability of your containerized applications.
 
